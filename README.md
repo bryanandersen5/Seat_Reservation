@@ -48,14 +48,14 @@
 ### 📁 `File Overview`
 ```
 📦 Seat_Reservation/
- ┣ 📁 BryanAndersen_Portfolio_2/              # Main project folder
- ┃ ┣ 📄 BryanAndersen_Portfolio_2.cpp         # Source code for seat reservation logic
- ┃ ┣ 📄 BryanAndersen_Portfolio_2.vcxproj     # Visual Studio project file
- ┃ ┣ 📄 BryanAndersen_Portfolio_2.vcxproj.filters # VS file filters
- ┃ ┣ 📄 BryanAndersen_Portfolio_2.vcxproj.user    # User-specific settings (ignored)
- ┃ ┗ 📄 README.md                              # Project description
- ┣ 📄 BryanAndersen_Portfolio_2.sln           # Visual Studio solution file
- ┣ 📁 .vs/                                     # IDE cache folder (ignored via .gitignore)
- ┣ 📁 x64/                                     # Build output folder (ignored via .gitignore)
- ┗ 📄 .gitignore                               # Excludes temp, build, and user config files
+ ┣ 📄 BryanAndersen_Portfolio_2.sln
+ ┣ 📄 .gitignore
+ ┣ 📁 .vs/ (ignored)
+ ┣ 📁 x64/ (ignored)
+ ┗ 📁 BryanAndersen_Portfolio_2/
+   ┣ 📄 BryanAndersen_Portfolio_2.cpp
+   ┣ 📄 BryanAndersen_Portfolio_2.vcxproj
+   ┣ 📄 BryanAndersen_Portfolio_2.vcxproj.filters
+   ┣ 📄 BryanAndersen_Portfolio_2.vcxproj.user (ignored)
+   ┗ 📄 README.md
 ```
