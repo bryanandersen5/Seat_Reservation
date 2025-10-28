@@ -42,7 +42,6 @@
 - Implement **seat type selection** (VIP, economy, etc.)  
 - Introduce **file saving** to persist reservations  
 - Refactor into **modular functions** or classes  
-- Optional: Build a **GUI version** using Qt or SFML
 
 ---
 
